@@ -6,7 +6,7 @@ import './nav/nav.css'
 function App() {
   return (
     <div className="App">
-      <h1>This is sample</h1>
+      <h1 style={{ color: 'white' }}>Floating NavBar</h1>
       <Nav/>
     </div>
   );
